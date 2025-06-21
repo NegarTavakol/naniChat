@@ -19,10 +19,14 @@ A child-safe, age-aware public chat app built with Flutter & Firebase.
 
 ## 🚀 Getting Started
 
+
 ### Prerequisites
 
 - Flutter 3.10 or later
 - Firebase project set up (Realtime Database, Auth)
+- Flutter SDK (version X.X.X)
+- Firebase account
+- Android Studio or VS Code
 
 ### Installation
 
