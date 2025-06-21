@@ -1,0 +1,19 @@
+# Flutter & Dart related
+.dart_tool/
+.packages
+build/
+pubspec.lock
+
+# Firebase sensitive files
+lib/firebase_options.dart
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+
+# OS generated
+.DS_Store
+.idea/
+.vscode/
+
+# Firebase
+android/app/google-services.json
+lib/firebase_options.dart
