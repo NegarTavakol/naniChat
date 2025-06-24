@@ -8,7 +8,7 @@ A child-safe, age-aware public chat app built with Flutter & Firebase.
 
 ## 📱 Features
 
-- 🔐 Anonymous sign-in with age check
+- 🔐 Email-based signup with nickname selection
 - 📅 Under 18 and over 18 users are separated
 - 🔎 Realtime online user list
 - 💬 Encrypted and filtered public messages
