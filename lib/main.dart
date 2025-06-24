@@ -16,7 +16,6 @@ void main() async{
 
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
-    options: DefaultFirebaseOptions.currentPlatform,
   );
   print("Firebase initialized");
   await ContentFilter.loadBannedWordsFromJson();
